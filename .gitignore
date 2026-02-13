@@ -42,3 +42,37 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+/dist/
+/tmp/
+/out-tsc/
+/bazel-out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.local
+
+# Testing
+/coverage/
+
+# Misc
+*.log
+.angular/
